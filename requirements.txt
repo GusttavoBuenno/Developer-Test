@@ -1,8 +1,8 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-scipy
-tqdm
+duckdb
+polars
 umap-learn
+faiss-cpu
+numpy
+plotly
+streamlit
+scikit-learn
